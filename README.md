@@ -15,3 +15,5 @@ Computer Science student specializing in **Full-Stack Development** and **Data S
 ### 🚀 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/akula-vaishnavi-663873281) | [Portfolio](https://akulavaishnavi22.github.io/portfolio-vaishu/)
 - Email: vaishnaviakula00@gmail.com
+### 📊 My GitHub Stats
+![Akula's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkulaVaishnavi22&show_icons=true&theme=radical&hide_border=true&count_private=true)
