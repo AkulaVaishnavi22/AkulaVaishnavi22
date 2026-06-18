@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Akula Vaishnavi! 👋
 
-<!--
-**AkulaVaishnavi22/AkulaVaishnavi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student specializing in **Full-Stack Development** and **Data Structures & Algorithms**. Experienced in building scalable applications using **React, Node.js, and Firebase**, with hands-on expertise in **ML systems** and **competitive programming**. Passionate about solving complex problems and engineering robust software solutions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python, Java, C, JavaScript
+-**Full Stack:** React.js, Node.js, Express.js, Firebase, Judge0
+- **ML & Cloud:** Machine Learning, AWS, Azure Data Factory
+- **Web:** React.js, Node.js, Express.js, HTML, CSS
+- **Databases:** MySQL, MongoDB, Oracle
+- **Cloud:** AWS (S3, Redshift), Azure Data Factory
+- **Tools:** Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Competitive Programming
+- **LeetCode:** 180+ problems solved | Contest Rating: 1727 (Top 11%)
+- **CodeChef:** Rating: 1459
+
+### 🚀 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/akula-vaishnavi-663873281) | [Portfolio](https://akulavaishnavi22.github.io/portfolio-vaishu/)
+- Email: vaishnaviakula00@gmail.com
