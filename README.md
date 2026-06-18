@@ -1,18 +1,15 @@
 # Hi there, I'm Akula Vaishnavi! 👋
 
 Computer Science student specializing in **Full-Stack Development** and **Data Structures & Algorithms**. Experienced in building scalable applications using **React, Node.js, and Firebase**, with hands-on expertise in **ML systems** and **competitive programming**. Passionate about solving complex problems and engineering robust software solutions.
-
 ### 🛠 Tech Stack
 - **Languages:** Python, Java, C, JavaScript
--**Full Stack:** React.js, Node.js, Express.js, Firebase, Judge0
-- **ML & Cloud:** Machine Learning, AWS, Azure Data Factory
-- **Web:** React.js, Node.js, Express.js, HTML, CSS
+- **Full Stack:** React.js, Node.js, Express.js, Firebase, Judge0
+- **Cloud & ML:** AWS, Azure Data Factory, Machine Learning
 - **Databases:** MySQL, MongoDB, Oracle
-- **Cloud:** AWS (S3, Redshift), Azure Data Factory
 - **Tools:** Git, Linux, VS Code
 
 ### 📈 Competitive Programming
-- **LeetCode:** 180+ problems solved | Contest Rating: 1727 (Top 11%)
+- **LeetCode:** 200+ problems solved | Contest Rating: 1727 (Top 11%)
 - **CodeChef:** Rating: 1459
 
 ### 🚀 Let's Connect
